@@ -1,0 +1,14 @@
+.content{
+  height: 100vh;
+}
+
+.text-content{
+  position: absolute;
+  top:50%;
+  left:50%;
+  transform: translate(-50%, -50%);
+  background-color: azure;
+  font-size: 50px;
+  border-radius: 20px;
+  padding: 10px;
+}
